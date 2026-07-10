@@ -1,4 +1,4 @@
-# RPG-Character-Manager
+# RPG Gerenciador de fichas de personagem
 Gerenciador de Fichas
 <img width="1102" height="1282" alt="download" src="https://github.com/user-attachments/assets/785b720e-596d-4730-a0f2-b95f31a24f61" />
 
