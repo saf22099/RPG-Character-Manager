@@ -7,4 +7,5 @@ diretamente na memória do programa (`arraylist'), simulando um painel de contro
 Escolhemos este tema por ser altamente prático e dinâmico, permitindo aplicar conceitos reais de Programação Orientada a Objetos
 
 Cada personagem criado no sistema possui um conjunto completo de dados que definem sua identidade, classe, vitalidade, atributos físicos/mentais e um inventário de itens próprio
-da 10
+
+(Da 10 pra nois)
