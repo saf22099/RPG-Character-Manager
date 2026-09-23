@@ -1,4 +1,7 @@
-[diagramacao-explicacao (1).pdf](https://github.com/user-attachments/files/32559109/diagramacao-explicacao.1.pdf)# RPG Gerenciador de fichas de personagem
+# RPG Gerenciador de fichas de personagem
+
+[rpg-character-manager (1) (1).drawio](https://github.com/user-attachments/files/32565031/rpg-character-manager.1.1.drawio)
+
 Gerenciador de Fichas
 
 O projeto consiste em um software para criação e gerenciamento de fichas de personagens de RPG, o sistema permite que o usuário gerencie uma lista de fichas salvas 
