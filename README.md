@@ -1,6 +1,9 @@
 # RPG Gerenciador de fichas de personagem
 
-[rpg-character-manager (1) (1).drawio](https://github.com/user-attachments/files/32565031/rpg-character-manager.1.1.drawio)
+[Diagrama no Draw.io](https://github.com/user-attachments/files/32565031/rpg-character-manager.1.1.drawio)
+
+[Explicação](https://github.com/user-attachments/files/32565055/diagramacao.pdf) 
+
 
 Gerenciador de Fichas
 
